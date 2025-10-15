@@ -32,7 +32,7 @@ chatbot-slack-notification/
 
 ## Prerequisites
 
-### 1. AWS Chatbot - Slack Integration (Manual Setup)
+### 1. AWS Chatbot - Slack Integration (Manual Setup):
 1. Go to **AWS Chatbot Console** → **Configure new client**
 2. Select **Slack** → **Configure**
 3. **Authorize AWS Chatbot** in your Slack workspace
