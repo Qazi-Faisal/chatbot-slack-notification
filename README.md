@@ -1,6 +1,9 @@
 # CloudWatch Auto Scaling Spot Instance Alert
 
 Terraform infrastructure for monitoring Auto Scaling Group spot instance failures using CloudWatch Events and AWS Chatbot.
+ 
+# Architecture Diagram :
+<img width="2731" height="1248" alt="image" src="https://github.com/user-attachments/assets/17623629-e8dd-41f0-8d77-6e848e35f860" />
 
 ## Project Structure
 
